@@ -244,6 +244,4 @@ The individual exercises are associated with groups of lectures. The project req
  → Front-end/UI\
  → Real-time end-to-end demonstration  UAB Apps
 
- For **2026/27**, UAB 105075 is best understood as a **hands-on, end-to-end IoT engineering course**, rather than a conventional theory-heavy networking course. The central deliverable is an original working IoT concept/prototype spanning **embedded hardware, wireless communication, edge processing, cloud services and UI**, with **EdgeAI and energy consumption receiving increased emphasis this year**. The assessment is entirely continuous, with **60% coming from the project and labs**, mandatory participation in those practical components, and no conventional single final exam.  UAB Apps
-
  **Official source:**  UAB 2026/2027 Course Guide for 105075
