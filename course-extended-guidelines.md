@@ -464,4 +464,3 @@ The project itself progresses from **P1 in September through P6 in December**, w
  ### In one sentence
 
  **This is essentially an end-to-end IoT engineering course where you design, justify, prototype and defend a real IoT system spanning embedded hardware, communications, mobile/edge computing, cloud and AI—with energy, performance, cost and practical deployment considered throughout.**
-solution**.
