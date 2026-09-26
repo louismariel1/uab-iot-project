@@ -464,5 +464,4 @@ The project itself progresses from **P1 in September through P6 in December**, w
  ### In one sentence
 
  **This is essentially an end-to-end IoT engineering course where you design, justify, prototype and defend a real IoT system spanning embedded hardware, communications, mobile/edge computing, cloud and AI—with energy, performance, cost and practical deployment considered throughout.**
-
- One particularly important takeaway from these guidelines is that **the project and lab are not separate assignments**: they are two sides of the same system. The **design project specifies and justifies the IoT solution**, while the **lab implements a PoC of that same solution**.
+solution**.
