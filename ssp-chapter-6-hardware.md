@@ -1,4 +1,4 @@
- # 6\. SSP Hardware and Device Architecture
+ # Chapter 6\. SSP Hardware and Device Architecture
 
  ## 6.1 Purpose of the Hardware Design
 
