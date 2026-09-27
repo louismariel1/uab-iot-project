@@ -924,7 +924,7 @@ This traceability matrix shall be expanded as the architecture becomes more deta
 
 ---
 
- # 3.21 Chapter Conclusion
+ # 3.21 Conclusion
 
  The requirements defined in this chapter establish the engineering baseline for SSP.
 
