@@ -805,4 +805,4 @@ This is an important distinction.
 
  **Requirements → Architecture → Implementation → Measurement → Validation → Correction**
 
- This closes the main technical design cycle established across Chapters 1–15 and provides the evidence required for the final assessment, business/scalability conclusions and critical review developed in Chapters 16 and 17.
+
