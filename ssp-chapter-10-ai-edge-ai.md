@@ -835,5 +835,3 @@ The AI architecture therefore does not introduce an independent technology layer
  with intelligence distributed according to:
 
  **Latency + Energy + Privacy \+ Connectivity + Computational resources + Reliability**
-
- The next chapter, **Chapter 11 — Energy / Performance**, will quantify the consequences of these architectural decisions. In particular, it will establish the latency budget, sampling requirements, processing requirements, communication energy, inference energy, duty-cycle strategy and battery-autonomy calculations needed to determine whether the proposed SSP architecture is physically and operationally feasible.
