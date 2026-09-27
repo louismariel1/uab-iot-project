@@ -1489,5 +1489,3 @@ This gives you a clear bridge from **project requirements → architecture → i
  > **Problem → Existing solutions → Requirements → Differentiation → Architecture → Hardware → Embedded AI → Edge AI → Communications → Cloud AI → Privacy → Energy → Security → Prototype → Testing → Certification → Economics → Deployment → Project planning → Conclusions.**
 
  The next logical step is therefore to turn this into the **formal SmartSecurePerimeter Project Definition**, including **problem statement, objectives, stakeholders, three existing commercial solutions to benchmark, functional/non-functional requirements, novel contributions, system architecture, KPIs, use cases, and a P1/P2/P3-style report structure**.
-
- The next logical step is therefore to turn this into the **formal SmartSecurePerimeter Project Definition**, including **problem statement, objectives, stakeholders, three existing commercial solutions to benchmark, functional/non-functional requirements, novel contributions, system architecture, KPIs, use cases, and a P1/P2/P3-style report structure**.
