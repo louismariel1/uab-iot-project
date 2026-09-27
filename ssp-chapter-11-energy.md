@@ -882,4 +882,5 @@ Chapter 11 therefore acts as the quantitative bridge between the architecture an
 
  Most importantly, Chapter 11 does **not** present unmeasured performance as achieved performance. It establishes the budgets and targets that Chapter 15 will ultimately test.
 
- The next chapter, **Chapter 12 — Cloud Architecture**, will translate the Device–Edge–Cloud data and processing requirements into the concrete backend architecture, including APIs, event processing, databases, storage, authentication, authorization, monitoring, recovery and scalability.
+
+
