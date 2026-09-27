@@ -364,18 +364,6 @@ This table is now **supporting the use cases**, rather than being the chapter it
  ↓\
  **Chapter 5:** How we architect SSP to satisfy them
 
- ### One important structural point
-
- I **would not rename Chapter 2 to "System Architecture" or "Data Flow."** That would start encroaching on Chapters 5 and 9.
-
- Instead, I recommend freezing Chapter 2 as:
-
- > **2\. Target Users, Use Cases & Operational Scenarios**
-
- This preserves the original 17-chapter structure and its course alignment while making the chapter much more useful to the reader.
-
- The overall report then has a very natural narrative:
-
  **Problem → Users → Usage → Requirements → Existing Solutions → Architecture → Implementation Design → Validation**
 
  That is closer to the storyboard-oriented structure you have seen in other successful IoT projects, while still preserving our frozen SSP architecture.
