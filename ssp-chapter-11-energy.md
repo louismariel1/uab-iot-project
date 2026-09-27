@@ -1,6 +1,4 @@
-You wrote “chapter 10” at the end, but based on the frozen structure and the sequence, I’m treating this as **Chapter 11 — Energy / Performance**.
-
- ## Chapter 11 plan
+# Chapter 11 plan
 
  Chapter 11 should convert the qualitative architecture and component decisions from Chapters 5–10 into **quantitative engineering constraints**.
 
