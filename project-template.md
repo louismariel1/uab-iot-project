@@ -1,0 +1,17 @@
+ - **Problem / use case** — what real-world problem is being solved.
+- **Target users and stakeholders**.
+- **Requirements** — functional and performance requirements.
+- **Market/context analysis**.
+- **IoT architecture** — Device → Edge/Mobile → Cloud → User.
+- **Hardware** — sensors, MCU/SoC, actuators, power/battery.
+- **Communication** — BLE, Wi-Fi, LoRa, cellular, etc.
+- **Software** — embedded code, mobile app, backend, APIs, frontend.
+- **Data flow** — what data is generated, processed, transmitted and stored.
+- **AI/EdgeAI**, where applicable.
+- **Energy/performance considerations**.
+- **Cloud architecture**.
+- **Proof of Concept (PoC)** and what is actually implemented.
+- **Business model, costs and scalability**.
+- **Testing and validation**.
+- **Reports, presentations and defence structure**.
+- **What makes the project convincing/complete**, and what could be improved.
