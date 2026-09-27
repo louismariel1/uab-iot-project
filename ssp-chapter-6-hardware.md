@@ -1243,5 +1243,3 @@ This traceability will be expanded when concrete components are selected.
  The design progression is now:
 
  **Requirements → Market/Context → Architecture → Hardware → Communication → Software → Data → AI → Energy/Performance → Cloud → PoC → Business/Costs → Validation**
-
- This keeps Chapter 6 deliberately separate from Chapter 5: **Chapter 5 answers “where should SSP functions live?”; Chapter 6 answers “what physical device is required to make the Device layer capable of doing that?”** Chapter 7 can then make the communication technology decisions without mixing them prematurely into the hardware chapter.
