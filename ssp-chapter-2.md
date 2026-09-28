@@ -1,4 +1,4 @@
- # 2\. Target Users and Stakeholders
+ # Chapter 2\. Target Users and Stakeholders
 
  ## 2.1 Purpose of the Chapter
 
