@@ -1,5 +1,3 @@
-Absolutely. Below is **Chapter 4 in the Answer-Included Study & Assessment format**, with the questions covering the chapter content and the **answer immediately below each question**. I’ve kept the questions suitable for exam preparation, while also testing understanding rather than only memorization.
-
  # Chapter 4 — Answer-Included Study & Assessment
 
  ## 4.1 Purpose of the Market and Context Analysis
