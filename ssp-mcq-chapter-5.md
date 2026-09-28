@@ -1,5 +1,3 @@
-Absolutely. Below is **Chapter 5 — Answer-Included Study & Assessment**, using the same question-based format as the previous chapters, with the **answer immediately below each question**. I’ve focused the questions on concepts, architectural decisions, reasoning, and distinctions that are likely to matter in an assessment.
-
  # Chapter 5 — SSP System Architecture and First Engineering Design Decisions
 
  ## Answer-Included Study & Assessment
