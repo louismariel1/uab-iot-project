@@ -3,7 +3,7 @@
  ## D2 — Functional and Performance Specifications
 
  **Academic Year:** 2026/2027\
- **Course:** IoT Design Project\
+ **Course:** UAB 105075 - IoT Design Project\
  **Deliverable:** D2 — Functional & Performance Specifications\
  **Acronym:** SSP\
  **IOT Group 14:** Louis-Marie Loe, Cheong Travis
