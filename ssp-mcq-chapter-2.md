@@ -747,5 +747,3 @@ The last principle is intentionally less developed in Chapter 2 because the deta
 14. The overarching operational progression is:
 
  **Normal monitoring → Detection → Assessment → Prediction → Adaptive escalation → Alert → Operational response → Synchronization/continued monitoring**
-
- This version can serve as the **Chapter 2 study key** while the original no-answer version can remain the actual test version for self-assessment.
