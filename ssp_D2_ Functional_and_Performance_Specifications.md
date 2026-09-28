@@ -1337,10 +1337,5 @@ These values are development targets and shall not be interpreted as achieved pe
 
 ---
 
- **Document status:** D2 submission version\
- **Requirement status:** Design targets to be verified in subsequent deliveries\
- **Next major activity:** D3 — Architecture and technology selection
-
- ### Submission note
-
- This version is the one I would use as the **D2 source document**. When transferring it into the official IEEE template, keep the two-column IEEE layout, add your actual author names/affiliations, and convert the section/table formatting to the template's styles. IEEE provides official Word and LaTeX templates for this purpose.  IEEE Author Center Journals+1
+ 
+ 
