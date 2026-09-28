@@ -1,4 +1,4 @@
- # 4\. Market / Context Analysis
+ # Chapter 4\. Market / Context Analysis
 
  ## 4.1 Purpose of the Market and Context Analysis
 
