@@ -1,5 +1,3 @@
-Absolutely. Since you want to **master the D2 requirements document**, the most useful version is a study document that contains the requirement, what it means, what a good answer should contain, and an **SSP-specific model answer**.
-
  # D2 Requirements — Answer-Included Study & Assessment
 
  **Project:** Smart Safety & Protection IoT System\
