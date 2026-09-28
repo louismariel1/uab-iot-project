@@ -1,7 +1,5 @@
 ## Chapter 13 — Study & Assessment
 
- This chapter is designed as an **answer-included study and assessment section**. It focuses on the concepts, engineering reasoning, and distinctions you should understand from Chapter 13 rather than simply repeating the chapter text.
-
  ### 1\. What is the main purpose of the SSP Proof of Concept?
 
  **Answer:**\
