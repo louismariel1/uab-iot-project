@@ -1,7 +1,4 @@
 # SSP Chapter 1 — Answer-Included Study & Assessment
-
- Below is the **same Chapter 1 question set**, now converted to the answer-included study format. The answers are grounded in the Chapter 1 baseline you provided, with explanations designed to reinforce the engineering reasoning rather than simply identify the correct option.
-
 ---
 
  # Part I — Understanding
