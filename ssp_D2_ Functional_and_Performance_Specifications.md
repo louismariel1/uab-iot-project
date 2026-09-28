@@ -1344,5 +1344,3 @@ These values are development targets and shall not be interpreted as achieved pe
  ### Submission note
 
  This version is the one I would use as the **D2 source document**. When transferring it into the official IEEE template, keep the two-column IEEE layout, add your actual author names/affiliations, and convert the section/table formatting to the template's styles. IEEE provides official Word and LaTeX templates for this purpose.  IEEE Author Center Journals+1
-
- The important change from the earlier D2 is that the instructor can now check the official questions almost mechanically: **every system layer has functions, every layer has defined data, functional and performance requirements are separated, every requested performance category has numerical targets, and market consistency is explicitly addressed without claiming unverified commercial superiority.**
