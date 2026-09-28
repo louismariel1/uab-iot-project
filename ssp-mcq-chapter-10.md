@@ -1,5 +1,3 @@
-Absolutely. Based on the Chapter 10 material you provided, here is the **answer-included study and assessment version**, structured so it can be used directly for revision, self-testing, or inclusion alongside the main SSP chapter.
-
  # Chapter 10 — AI / EdgeAI
 
  ## Answer-Included Study & Assessment
