@@ -6,7 +6,7 @@
  **Course:** IoT Design Project\
  **Deliverable:** D2 — Functional & Performance Specifications\
  **Acronym:** SSP\
- **Authors:** _\[Insert group members\]_
+ **Authors:** _\Louis-Marie Loe, Cheong Travis\]_
 
 ---
 
