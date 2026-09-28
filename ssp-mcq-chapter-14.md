@@ -1,4 +1,5 @@
-# Chapter 14\. Business, architecture into a productization, economic and deployment model. It does not introduce a new technical architecture; instead, it derives the business consequences of the decisions Costs and Scalability
+## Chapter 14\. Study and Assessment 
+## Chapter 14\. Business, architecture into a productization, economic and deployment model. It does not introduce a new technical architecture; instead, it derives the business consequences of the decisions Costs and Scalability
 
  Chapter 14 translates the technically defined SmartSecurePerimeter (SSP) architecture into a productization, economic and deployment model. It does not introduce a new technical architecture; instead, it derives the business consequences of the decisions established in Chapters 3–13.
 
