@@ -1,8 +1,5 @@
 # SSP Chapter 3 — Answer-Included Study & Assessment
-
- Below is the **answer-included study and assessment version for Chapter 3**, following the same structure as Chapter 1\. The questions progress from **Understanding → Engineering Reasoning → Design Challenge → Critical Assessment**, and the answer appears immediately after each question.
-
----
+ ---
 
  # Part I — Understanding
 
