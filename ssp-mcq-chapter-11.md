@@ -1,5 +1,3 @@
-Below is the **answer-included Study & Assessment** version for SSP Chapter 11. It is designed to test understanding of the chapter while keeping the answers directly available for revision.
-
  # SSP Chapter 11 — Energy / Performance
 
  ## Answer-Included Study & Assessment
