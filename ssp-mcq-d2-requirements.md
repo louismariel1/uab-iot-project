@@ -1,9 +1,9 @@
  # D2 Requirements — Answer-Included Study & Assessment
 
- **Project:** Smart Safety & Protection IoT System\
+ **Project:** Smart Secure Perimeter IoT System\
  **Acronym:** SSP\
  **Deliverable:** D2 — Functional & Performance Specifications\
- **Purpose:** Study, understand and assess the D2 submission requirements\
+ **Purpose:** Course requirements: D2 submission requirements\
  **Academic Year:** 2026/2027
 
 ---
