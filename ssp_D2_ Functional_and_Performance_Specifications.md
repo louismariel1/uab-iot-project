@@ -1,5 +1,3 @@
-Below is the **revised D2 submission document**. It is written as a self-contained IEEE-style paper, with D1 treated as completed background rather than as a separate submission. The author names should be replaced with your group members before submission.
-
  # SSP — Smart Safety & Protection IoT System
 
  ## D2 — Functional and Performance Specifications
