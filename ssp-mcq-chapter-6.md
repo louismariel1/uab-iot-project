@@ -1,5 +1,3 @@
-Absolutely. Chapter 6 is now the hardware-design baseline following Chapter 5. For the **study & assessment** version, the useful next step is to turn it into an answer-included learning chapter: key concepts, engineering reasoning, review questions, and assessment answers, while preserving the original technical decisions.
-
  # Chapter 6 — SSP Hardware and Device Architecture
 
  ## Answer-Included Study & Assessment
