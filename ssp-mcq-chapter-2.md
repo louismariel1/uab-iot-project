@@ -1,9 +1,4 @@
 # SSP Chapter 2 — Answer-Included Study & Assessment
-
- This version keeps the **same 32 questions** from the previous Chapter 2 assessment, but now includes the **correct answer immediately below each question**, followed by a concise explanation.
-
- The answers are based on the **Chapter 2 baseline you provided**, with Chapter 1 used only where the question explicitly tests the Chapter 1 ↔ Chapter 2 relationship.
-
 ---
 
  # Part I — Understanding
