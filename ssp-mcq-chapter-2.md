@@ -1,9 +1,4 @@
 # SSP Chapter 2 — Assessment Test
-
- I’ve treated this revised Chapter 2 as the **authoritative baseline for Chapter 2**. The questions focus on actors, operational behavior, use cases, escalation, resilience, privacy-aware monitoring, operator workflow, and the Chapter 2 → Chapter 3 requirements transition.
-
- As with Chapter 1, **there are no answers below**.
-
 ---
 
  ## Part I — Understanding
