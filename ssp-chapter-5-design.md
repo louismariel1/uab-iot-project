@@ -1,4 +1,4 @@
- # 5\. SSP System Architecture and First Engineering Design Decisions
+ # Chapter 5\. SSP System Architecture and First Engineering Design Decisions
 
  ## 5.1 Purpose of the Architecture Chapter
 
