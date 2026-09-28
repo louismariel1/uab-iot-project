@@ -1,6 +1,6 @@
 # Chapter 12 — Study & Assessment
 
- ### Chapter 12 — 12 converts the Cloud layer defined in the earlier architecture into an implementable backend architecture. It defines cloud requirements, deployment, APIs, backend services, databases, storage, event Answer-Included Study & Assessment
+ ### Chapter 12 converts the Cloud layer defined in the earlier architecture into an implementable backend architecture. It defines cloud requirements, deployment, APIs, backend services, databases, storage, event Answer-Included Study & Assessment
 
  **Q1. What is the primary purpose of Chapter 12?**\
  **Answer:** Chapter 12 converts the Cloud layer defined in the earlier architecture into an implementable backend architecture. It defines cloud requirements, deployment, APIs, backend services, databases, storage, event processing, authentication, authorization, security, monitoring, recovery, scalability and cost modelling.
