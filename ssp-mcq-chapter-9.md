@@ -1,6 +1,4 @@
-Below is the complete **Chapter 9 Answer-Included Study & Assessment**, structured to test understanding of the data-flow architecture while keeping the answers directly available for study and self-checking.
-
- # SSP Chapter 9 — Answer-Included Study & Assessment
+# SSP Chapter 9 — Answer-Included Study & Assessment
 
  ## 1\. Chapter 9 Core Learning Objectives
 
