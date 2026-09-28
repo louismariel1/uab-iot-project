@@ -1,7 +1,4 @@
 # SSP Chapter 7 — includes the key concepts, explanations, worked answers, assessment questions, and model answers needed to test Answer-Included Study & Assessment
-
- This study chapter is designed to accompany **Chapter 7 — SSP Communication Architecture**. It includes the key concepts, explanations, worked answers, assessment questions, and model answers needed to test understanding before moving to Chapter 8.
-
 ---
 
  # 7.1 Purpose of This Study Chapter
