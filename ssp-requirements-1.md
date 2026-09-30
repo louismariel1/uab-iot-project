@@ -1399,7 +1399,3 @@ The initial classification places positioning, event detection, alert generation
  The resulting project progression is:
 
  **Problem -\> Users and scenarios -\> Existing solutions -\> Improvement opportunities -\> Requirements -\> Architecture -\> Hardware -\> Communication -\> Software -\> Data -\> AI -\> Energy and performance -\> Cloud -\> PoC -\> Cost -\> Validation**
-
- Chapter 5 will therefore begin the detailed engineering design by translating the requirements established in this document into the SSP system architecture.
-
- This version is now internally consistent with the decisions we made: **Chapter 3 explains what exists and where improvement opportunities arise; Chapter 4 converts those findings into requirements; Chapter 5 is the first place where the actual architecture is designed.**
