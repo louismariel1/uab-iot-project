@@ -113,8 +113,5 @@
 
  **\[3\]** Ministerio del Interior, Gobierno de España, _Sistema VioGén 2_.  Official source
 
- This version gives Chapter 1 a clearer progression:
-
- **Definition → Motivation → Existing State → Design Approach → Differentiation → Applications → Design Philosophy**
 
  It also avoids prematurely making a strong “SSP is the first” market claim. That claim, if warranted, can be addressed later after we complete the systematic benchmark in the market/context analysis.
