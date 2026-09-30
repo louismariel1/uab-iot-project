@@ -1,7 +1,3 @@
-Yes. I would now treat this as the **consolidated D2 baseline**, with Chapters 1–4 written as a scientific/engineering document rather than as a collection of feature lists. I have also incorporated the latest decisions: the revised Chapter 2 operational scenarios, the Market/Context analysis as Chapter 3, the formal requirements as Chapter 4, the SSP improvement objectives, and the explicit separation between **requirements in D2** and **architecture beginning in Chapter 5**.
-
- I have deliberately avoided introducing the detailed architecture, specific hardware, communication technologies, cloud platform, or AI model into Chapters 1–4.
-
  # D2 — SmartSecurePerimeter (SSP)
 
  ## Chapters 1–4: Problem Definition, Operational Scenarios, Market and Context Analysis, and System Requirements
