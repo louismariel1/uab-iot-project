@@ -1,5 +1,3 @@
-Absolutely. Since the audience can **only hear you**, the script should be self-contained, avoid references such as “as you can see,” and introduce SSP in the same logical progression as the frozen D2: **motivation → users and operational scenarios → existing solutions and opportunities → functional and performance requirements**.
-
  ## SSP — D2 Presentation Narrative Script
 
  ### Opening
