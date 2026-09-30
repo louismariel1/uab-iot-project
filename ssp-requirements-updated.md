@@ -1,15 +1,3 @@
-Yes. The main improvements I would make are:
-
- - explicitly state that the **target solution is hosted on a public cloud**, while sensitive data remains protected through private logical resources, authentication, encryption, access control and retention policies;
-- make the **AI contribution concrete** by defining what AI receives as input, what it produces, where inference occurs, what role it plays, and how it is evaluated;
-- avoid claiming that AI is merely “optional” without specifying its actual contribution;
-- remove the duplicated/corrupted passages in Sections IV, V and XXI;
-- keep the requirements as **targets**, rather than pretending they have already been achieved;
-- avoid adding unnecessary architecture or implementation commitments that belong in D3/D4;
-- make the document internally consistent, particularly around cloud, AI, privacy, data flow and traceability.
-
- Below is a cleaned and updated version suitable as the D2 baseline.
-
  # SSP — Smart Safety & Protection IoT System
 
  ## D2 — Functional and Performance Specifications
