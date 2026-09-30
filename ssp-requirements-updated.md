@@ -1464,6 +1464,4 @@ These values are development targets and shall not be interpreted as achieved pe
 
  \[7\] AngelSense, “Location Update Frequency,” AngelSense Help Center.
 
- \[8\] AngelSense, “The Unique Capabilities of AngelSense,” AngelSense.
-
- This version keeps the scope realistic: **you are specifying a target system, not claiming that you have already built or validated it**. The two points your lecturer raised are now explicit enough to be visible during assessment: **public-cloud deployment** is a concrete cloud requirement, and **AI has a defined technical contribution rather than being mentioned only as a general feature**.
+ \[8\] AngelSense, “The Unique Capabilities of AngelSense,” AngelSense., and **AI has a defined technical contribution rather than being mentioned only as a general feature**.
