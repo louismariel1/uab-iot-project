@@ -1,7 +1,6 @@
-Yes. I reviewed the D2 against the questions you listed and against the IEEE guidance you referenced. The previous D2 already contained most of the **technical substance**, but the latest restructuring improves the **logic** considerably.
-
- The main conclusion is:
-
+The main conclusion is:
+# Final D2 Plan
+ 
  > **The final D2 should not simply reproduce the previous document. It should preserve its quantitative requirements and data specifications, while reorganizing them into Chapters 1–4 so that the document follows the intended reasoning chain: SSP idea → operational use → requirements → existing solutions/market context.**
 
  IEEE's own guidance emphasizes a clear scientific structure with title, authors, abstract, introduction, references, and appropriate technical organization, and recommends using the IEEE article templates and editorial guidance.  IEEE Author Center+1
