@@ -1,5 +1,3 @@
-Understood. I will treat **D2 as strictly Chapters 1–4**. Architecture is **not part of D2** and will be developed in **D3**.
-
  ## TD1 — Update plan
 
  The final D2 will use the improved logical progression we established:
