@@ -1,4 +1,3 @@
-The main conclusion is:
 # Final D2 Plan
  
  > **The final D2 should not simply reproduce the previous document. It should preserve its quantitative requirements and data specifications, while reorganizing them into Chapters 1–4 so that the document follows the intended reasoning chain: SSP idea → operational use → requirements → existing solutions/market context.**
