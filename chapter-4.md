@@ -1,3 +1,24 @@
+This chapter 4 is critical because it is the most important chapter of the D2 document. 
+1. while the F- and P- requirements are identified under the identification convention, most requirements defined in chatper 4 are only F- requirements. Normally for each layer, we should have F- and P- requirements, right? why no P- requirements defined for each layer? is it difficult to make such definitions?
+2. based on the latest regeneration of chapter 4, can we can clearly answer the following questions of the official requirements?
+//official requirements
+
+Are all the possible functions at device, edge, cloud & UI well defined?
+Is the data well described (data types, format, volume per packet) at every node? (sensors/device, edge, cloud, UI) 
+Are all functional specifications well separated from performance specifications? 
+Computational (max latency, max throughput, duty cycle) (device2 edge);
+Communications (wired/wireless, max range) (device2 edge);
+Energy (max energy, min battery duration) (device, edge?);
+Mechanical (max size, max weight, supports, etc.) (device, edge?); 
+Cloud (Storage size, analytical requirements, UI); Economical (max global cost) 
+Are specifications consistent with the market study? Is our IoT design competitive?
+
+Remember the instructions from  file Template_for_Groups_Delivery_Correction_26-27_v0.pdf available at the tab Procedure & Deliveries for the Design of your IoT Project (Detailed explanaiton of what is expected at every delivery of the project), specially the format model:
+
+Submit a document in IEEE format that includes: title, acronym, authors, introduction (idea/motivation), market study, functional and performance specifications and references of your proposal. In future deliveries you will add documentation to this document in the corresponding deliveries. https://ieeeauthorcenter.ieee.org/create-your-ieee-article/use-authoring-tools-and-ieee-articletemplates/ieee-article-templates/templates-for-transactions/
+
+
+
 Yes. Your concern is correct, and this is important enough that I would **not yet freeze Chapter 4**.
 
  The current Chapter 4 is substantially stronger than the earlier version, but there is a structural weakness: **we have defined many functional requirements with F- identifiers, while most performance requirements are expressed as prose targets without P- identifiers and without being systematically organized by system layer.**
