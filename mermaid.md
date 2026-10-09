@@ -28,18 +28,3 @@ flowchart TB
     linkStyle 1 stroke:#239B56,stroke-width:2px
     linkStyle 2 stroke:#C0392B,stroke-width:2px
 ```
-
-### Color scheme
-
-- Blue — Cloud tier: Analytics, AI, storage, alerts, and APIs.
-- Green — Edge tier: Real-time fusion, local AI, risk scoring, and offline operation.
-- Yellow — Device tier: Sensors, microcontroller, local processing, and event detection.
-- Red — Protected person/environment: The monitored endpoint.
-
-### How to use it on GitHub
-
-1. Open your `README.md` or another Markdown file.
-2. Paste the Mermaid code inside a fenced code block beginning with ```` ```mermaid ```` and ending with ```` ``` ````.
-3. Commit or preview the file. GitHub will render the diagram with colors and arrows.
-
-Note: The arrows between the cloud, edge, and device tiers are bidirectional, reflecting the two-way connections in your architecture. The device-to-person connection is directional. If you need strictly one-way data flow between tiers, replace `<-->` with `-->`.
