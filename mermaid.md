@@ -1,5 +1,4 @@
-mermaid
-```
+```mermaid
 
 flowchart TB
     CLOUD["☁️ CLOUD TIER<br/>Historical Analytics • Cloud AI • Storage • Alert Services<br/>Spatial Heatmaps • Multi-device Correlation • APIs"]
