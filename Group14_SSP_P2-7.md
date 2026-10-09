@@ -1,6 +1,5 @@
 # SmartSecurePerimeter (SSP): Distributed IoT Architecture for Perimeter Security and Personal Safety Monitoring
-### Louis-Marie Loe, Cheong Travis — Group 14, IoT Design Project 2026/2027
- **Louis-Marie Loe, Cheong Travis — Group 14, IoT Design Project 2026/2027**
+**Louis-Marie Loe, Cheong Travis — Group 14, IoT Design Project 2026/2027**
 
  ## Abstract
 
