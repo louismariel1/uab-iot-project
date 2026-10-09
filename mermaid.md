@@ -1,5 +1,3 @@
-Here is GitHub-compatible Mermaid code with colored tiers, clear connections, and styling. You can paste it directly into a `README.md` or any GitHub Markdown file.
-
 mermaid
 ```
 
