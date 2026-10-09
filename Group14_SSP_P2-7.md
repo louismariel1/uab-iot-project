@@ -1,7 +1,3 @@
-Yes. I would make only the agreed wording corrections: standardize **“edge gateway”**, preserve the rest of the document as-is, and repair the corrupted Section VIII paragraph. Below is the complete updated version.
-
- # SmartSecurePerimeter (SSP): Distributed IoT Architecture for Perimeter Security and Personal Safety Monitoring
-
  **Louis-Marie Loe, Cheong Travis — Group 14, IoT Design Project 2026/2027**
 
  ## Abstract
