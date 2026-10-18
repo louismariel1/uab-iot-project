@@ -491,5 +491,3 @@ GNSS tells the system where the device is estimated to be. The motion sensor hel
 By combining these functions, SSP is designed to move from collecting location and movement measurements towards contextual risk assessment, predictive alerts, local continuity, and coordinated human response.
 
 Thank you for listening.
-
-Shorten the script for a live presentationReduce repeated explanations of system roles
