@@ -1,5 +1,3 @@
-Below is a spoken narrative script designed for a classroom presentation where students can hear you but cannot see you. It avoids relying on slides, diagrams, gestures, or visual demonstrations. It introduces each component in plain language, explains how the components work together, and follows one simple example from beginning to end.
-
 # SmartSecurePerimeter (SSP)
 
 ## Comprehensive Oral Presentation Script
