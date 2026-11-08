@@ -1,9 +1,3 @@
-Below is the consolidated Chapter XIV — Implementation Options and Selection Rationale, ready to replace the existing chapter.
-
-The revision integrates the three wearable component configurations and their comparative costs, removes duplicate component discussions, preserves the Edge, Cloud, and UI selections, and updates the cloud scalability objective to 100,000 active devices.
-
-The cost tables distinguish estimated component prices from complete manufacturing costs. Configuration A remains the preferred SSP wearable; Configurations B and C are alternative candidate assemblies requiring electrical and mechanical validation.
-
 # XIV. IMPLEMENTATION OPTIONS AND SELECTION RATIONALE
 
 This chapter compares implementation alternatives for the SSP wearable, edge gateway, cloud back-end, and user interface. Selections are based on functional performance, energy efficiency, reliability, security, integration complexity, component availability, and cost. The wearable circuit architecture and energy budget are presented in Chapter XIII.
