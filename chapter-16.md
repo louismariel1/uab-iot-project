@@ -1,5 +1,3 @@
-The existing Chapter XVI is largely consistent with the D4 architecture. I have preserved its four subsections, reduced repetition between capacity targets and verification, and added a simple capacity-estimation formula. Chapter XVII is updated to reflect the single SSP wearable, with AI processing at the Edge and Cloud layers.
-
 # XVI. PERFORMANCE AND CAPACITY ESTIMATION
 
 ## XVI.1. Performance Targets
