@@ -93,3 +93,50 @@ The revised closing chapters now align with the rest of D4:
 - Requirements: Retains the 7-day minimum and 14-day battery objective, 24-hour gateway buffering, and the performance and scalability targets from Table 2.
 
 Status: Chapters XVI and XVII are ready for integration into the D4 report.
+
+Understood. The professor's instruction is to present the intended system capacity of 100,000 devices as the primary performance requirement, rather than emphasizing an initial deployment of 100 devices.
+
+I agree. For D4, we should remove the 100-device deployment baseline from the performance specification and consistently use 100,000 active devices as the scalability target.
+
+### Revised Section XVI.2
+
+## XVI.2. Communication and Processing Capacity
+
+SSP targets support for **100,000 active wearable devices** through a distributed architecture with multiple edge gateways and horizontally scalable cloud services.
+
+The required telemetry ingestion rate is estimated as:
+
+$$\
+R\_{\mathrm{telemetry}}=\frac{N}{T}\
+$$
+
+where $N$ is the number of active devices and $T$ is the average telemetry transmission interval in seconds.
+
+For 100,000 devices transmitting one message every 10 seconds:
+
+$$\
+R\_{\mathrm{telemetry}}=\frac{100,000}{10}\
+\=10,000\ \mathrm{messages/s}\
+$$
+
+The cloud architecture therefore targets at least **10,000 telemetry messages/s** under this operating assumption.
+
+Scalability is supported through distributed edge processing, multiple gateways, scalable message ingestion, and independently scalable cloud processing and storage. Actual capacity depends on message frequency, payload size, event bursts, and available infrastructure resources.
+
+The 100,000-device capacity and associated throughput are design targets to be verified through load and scalability testing.
+
+### Required consistency updates
+
+The following changes should also be made elsewhere in the D4 report:
+
+| Location                              | Updated requirement                                  |
+| ------------------------------------- | ---------------------------------------------------- |
+| Chapter V — Table 2                   | 100,000 active devices                               |
+| Chapter V — Table 2                   | ≥10,000 telemetry messages/s at a 10-second interval |
+| Chapter XIV.3 — Cloud Back-End        | Target 100,000 devices instead of 100/10,000         |
+| Chapter XVI.4 — Capacity Verification | Test scalability against the 100,000-device target   |
+| Chapter XVII — Conclusions            | Reference scalability toward 100,000 devices         |
+
+One additional point: The existing 20 events/s target must also be revised or explicitly scoped. Otherwise, it would be inconsistent with a system designed for 100,000 devices. Event capacity should be derived from an assumed event-generation rate and burst factor, rather than assigning an unsupported number.
+
+This approach addresses the professor's feedback directly: the D4 report specifies what SSP is designed to support, not merely how many devices an initial prototype deployment might contain.
