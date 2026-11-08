@@ -1,7 +1,3 @@
-I reviewed the supplied Chapter XIII and retained its existing seven-subsection structure. The additions below restore the important D3 hardware-design content—physical requirements, energy assumptions, battery-autonomy calculations, energy-saving measures, and hardware verification—without duplicating the component alternatives and cost comparisons reserved for Chapter XIV.
-
-The four diagrams remain separate and unchanged. Their captions are included at the appropriate insertion points.
-
 # XIII. WEARABLE HARDWARE DESIGN AND CIRCUIT-LEVEL IMPLEMENTATION
 
 ## XIII.1. Design Overview
