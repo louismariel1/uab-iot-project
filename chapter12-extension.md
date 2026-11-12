@@ -1,3 +1,15 @@
+Below is the revised version with GitHub-flavored Markdown (GFM) compatible LaTeX math formatting.
+
+Key corrections:
+
+- Use `$...$` for inline equations.
+- Use `$$...$$` for display equations.
+- Replace malformed `[\ ... \]` delimiters with proper GitHub Markdown math blocks.
+- Correct subscripts, Greek letters, units, and mathematical operators.
+- Preserve the original technical content, tables, numbering, and structure.
+
+Writing
+
 Yes. The stationary-node power budget and 12–24-month battery-autonomy justification are explicit parts of the professor's feedback.
 
 I recommend adding a dedicated subsection within XII.7 — SSP Perimeter Node Hardware, immediately after the low-power operating strategy.
@@ -20,18 +32,18 @@ The SSP Perimeter Node uses a provisional **3.6 V, 3.6 Ah primary lithium batter
 
 **TABLE IX. SSP PERIMETER NODE POWER-BUDGET ASSUMPTIONS**
 
-| Component / Operation           | Reference assumption               |
-| ------------------------------- | ---------------------------------- |
-| Background electronics          | 24 µA at 3.3 V, continuous         |
-| LoRaWAN transmission            | 119 mA at 3.3 V                    |
-| LoRaWAN reception               | 5 mA at 3.3 V, 200 ms/uplink       |
-| Radio traffic                   | 24 uplinks/day                     |
-| GNSS synchronization            | 13.8 mA at 3.0 V, 240 s/day        |
-| Event processing                | Additional 5 mA at 3.3 V, 10 s/day |
-| Converter efficiency            | 90% assumed                        |
-| Regulator quiescent current     | 360 nA at 3.6 V                    |
-| Initial usable battery capacity | 70%                                |
-| Battery self-discharge          | 2% per month                       |
+| Component / Operation | Reference assumption |
+| --- | --- |
+| Background electronics | 24 µA at 3.3 V, continuous |
+| LoRaWAN transmission | 119 mA at 3.3 V |
+| LoRaWAN reception | 5 mA at 3.3 V, 200 ms/uplink |
+| Radio traffic | 24 uplinks/day |
+| GNSS synchronization | 13.8 mA at 3.0 V, 240 s/day |
+| Event processing | Additional 5 mA at 3.3 V, 10 s/day |
+| Converter efficiency | 90% assumed |
+| Regulator quiescent current | 360 nA at 3.6 V |
+| Initial usable battery capacity | 70% |
+| Battery self-discharge | 2% per month |
 
 The background-current allowance represents the combined low-power electronics, including the MCU, sensors, RTC, and sleeping radio. Active radio and GNSS loads are evaluated separately. These assumptions require component-level measurement and verification.
 
@@ -39,32 +51,39 @@ The background-current allowance represents the combined low-power electronics, 
 
 For each operating state, energy is estimated as:
 
-[\
-E_i=\frac{V_i I_i t_i}{3600}\
-]
+$$
+E_i = \frac{V_i I_i t_i}{3600}
+$$
 
-where (E_i) is energy in Wh, (V_i) is voltage in V, (I_i) is current in A, and (t_i) is operating time in seconds.
+where:
+
+- $E_i$ is energy in Wh.
+- $V_i$ is voltage in V.
+- $I_i$ is current in A.
+- $t_i$ is operating time in seconds.
 
 The total daily battery energy is approximated by:
 
-[\
-E\_{\mathrm{bat,day}}=\
-\frac{\sum E_i}{\eta}\
-+V\_{\mathrm{bat}}I_q(24)\
-]
+$$
+E_{\mathrm{bat,day}}
+=
+\frac{\sum_i E_i}{\eta}
++
+V_{\mathrm{bat}} I_q (24)
+$$
 
-where (\eta=0.90) is the assumed converter efficiency and (I_q=360) nA is the regulator quiescent current. The model treats conversion efficiency as constant for preliminary estimation.
+where $\eta = 0.90$ is the assumed converter efficiency and $I_q = 360$ nA is the regulator quiescent current. The model treats conversion efficiency as constant for preliminary estimation.
 
 LoRaWAN airtime is evaluated for a 20-byte physical-layer payload, 125 kHz bandwidth, coding rate 4/5, eight-symbol preamble, explicit header, and CRC.
 
 **TABLE X. SSP PERIMETER NODE LORAWAN ENERGY AND AUTONOMY**
 
-| Parameter                         | SF7    | SF10    | SF12      |
-| --------------------------------- | ------ | ------- | --------- |
-| Airtime/uplink (ms)               | 56.576 | 370.688 | 1,318.912 |
-| Regulated energy (mWh/day)        | 4.877  | 5.699   | 8.182     |
-| Battery energy (Wh/year)          | 1.989  | 2.323   | 3.330     |
-| Required capacity (Ah, 24 months) | 2.052  | 2.396   | 3.435     |
+| Parameter | SF7 | SF10 | SF12 |
+| --- | --- | --- | --- |
+| Airtime/uplink (ms) | 56.576 | 370.688 | 1,318.912 |
+| Regulated energy (mWh/day) | 4.877 | 5.699 | 8.182 |
+| Battery energy (Wh/year) | 1.989 | 2.323 | 3.330 |
+| Required capacity (Ah, 24 months) | 2.052 | 2.396 | 3.435 |
 
 Increasing the spreading factor increases transmission airtime and energy consumption. Reception is represented by a simplified allowance; complete LoRaWAN Class A receive windows, retransmissions, and network overhead require validation.
 
@@ -72,25 +91,31 @@ Increasing the spreading factor increases transmission airtime and energy consum
 
 Nominal battery energy is:
 
-[\
-E\_{\mathrm{nominal}}=3.6\times3.6\
-\=12.96\ \mathrm{Wh}\
-]
+$$
+E_{\mathrm{nominal}} = 3.6 \times 3.6
+$$
+
+$$
+E_{\mathrm{nominal}} = 12.96 \ \mathrm{Wh}
+$$
 
 Assuming 70% initially usable energy:
 
-[\
-E_0=12.96\times0.70\
-\=9.072\ \mathrm{Wh}\
-]
+$$
+E_0 = 12.96 \times 0.70
+$$
+
+$$
+E_0 = 9.072 \ \mathrm{Wh}
+$$
 
 With an assumed monthly self-discharge rate of 2%, the remaining energy is estimated recursively:
 
-[\
-E\_{m+1}=0.98E_m-\frac{E\_{\mathrm{bat,year}}}{12}\
-]
+$$
+E_{m+1} = 0.98E_m - \frac{E_{\mathrm{bat,year}}}{12}
+$$
 
-where (E_m) is remaining battery energy after month (m).
+where $E_m$ is remaining battery energy after month $m$.
 
 After 24 months, the estimated remaining energy is:
 
@@ -118,31 +143,35 @@ The 24-month SF12 result is marginal. Final battery selection requires measured 
 
 The calculations are design estimates, not experimentally demonstrated autonomy.
 
-## Updated Chapter XII tables and figures register
+## Updated Chapter XII Tables and Figures Register
 
 Because this section is inserted into Chapter XII, its two tables must appear before the tables currently numbered in Chapter XIII.
 
-| Chapter XII table | Description                                    |
-| ----------------- | ---------------------------------------------- |
-| TABLE VI          | Wearable component-level power budget          |
-| TABLE VII         | Wearable battery capacity and autonomy         |
-| TABLE VIII        | Wearable component summary                     |
-| TABLE IX          | SSP Perimeter Node Power-Budget Assumptions    |
-| TABLE X           | SSP Perimeter Node LoRaWAN Energy and Autonomy |
+| Chapter XII table | Description |
+| --- | --- |
+| TABLE VI | Wearable component-level power budget |
+| TABLE VII | Wearable battery capacity and autonomy |
+| TABLE VIII | Wearable component summary |
+| TABLE IX | SSP Perimeter Node Power-Budget Assumptions |
+| TABLE X | SSP Perimeter Node LoRaWAN Energy and Autonomy |
 
 Chapter XII figures remain unchanged: Figs. 10–14.
 
 The subsequent tables must be renumbered:
 
-| Chapter XIII table                     | New identifier |
-| -------------------------------------- | -------------- |
-| Configuration A — Selected Wearable    | TABLE XI       |
-| Configuration B — Alternative Wearable | TABLE XII      |
-| Configuration C — Alternative Wearable | TABLE XIII     |
-| Estimated Wearable Component Costs     | TABLE XIV      |
+| Chapter XIII table | New identifier |
+| --- | --- |
+| Configuration A — Selected Wearable | TABLE XI |
+| Configuration B — Alternative Wearable | TABLE XII |
+| Configuration C — Alternative Wearable | TABLE XIII |
+| Estimated Wearable Component Costs | TABLE XIV |
 
 Chapter XIV contains no tables. If Chapter XV retains its hardware-cost summary table, that becomes TABLE XV. The LoRaWAN energy table should be removed from Chapter XV because it is now included in Chapter XII.
 
 Next available identifiers after Chapter XV: TABLE XVI and Fig. 15.
 
 This completes the missing analytical stationary-node power-budget section. The professor's requirement is now addressed at the design-calculation level, while experimental verification remains outstanding.
+
+GitHub rendering reminder: GitHub supports LaTeX through `$...$` and `$$...$$` delimiters in Markdown files. The equations above are formatted accordingly.
+
+One important technical note: I have preserved your numerical results rather than independently recalculating them. Before submitting, I recommend checking the consistency between the daily energy model, the monthly self-discharge recurrence, and the reported 24-month remaining-energy values.
