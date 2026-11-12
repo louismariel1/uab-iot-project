@@ -1,9 +1,3 @@
-Below is the regenerated version using GitHub-compatible Markdown and LaTeX math formatting. All malformed `[\ ... \]` expressions have been replaced with `$$...$$` display equations, and inline mathematical variables use `$...$`.
-
-The original structure, technical content, tables, numbering, and engineering assumptions are preserved.
-
-Writing
-
 The final two chapters are revised below, preserving the original performance and buffering calculations while incorporating both SSP devices, the completed Chapter XII power budgets, satellite connectivity, and the professor's feedback.
 
 The revised structure is:
