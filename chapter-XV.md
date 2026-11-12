@@ -1,3 +1,7 @@
+The final two chapters are revised below, preserving the original performance and buffering calculations while incorporating both SSP devices, the completed Chapter XII power budgets, satellite connectivity, and the professor's feedback.
+
+The revised structure is:
+
 XV. Performance, Capacity, and Cost Evaluation
 XVI. Conclusions and Future Work
 
