@@ -38,11 +38,7 @@ $$
 For 100,000 devices reporting every 10 seconds:
 
 $$
-R_{\mathrm{telemetry}}
-=
-\frac{100{,}000}{10}
-=
-10{,}000 \ \mathrm{messages/s}
+R_{\mathrm{telemetry}} = \frac{100{,}000}{10} = 10{,}000 \ \mathrm{messages/s}
 $$
 
 This is a reference capacity scenario. Actual traffic depends on adaptive Wearable reporting and event-driven Perimeter Node communication.
