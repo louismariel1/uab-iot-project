@@ -1,15 +1,3 @@
-Below is the revised version with GitHub-flavored Markdown (GFM) compatible LaTeX math formatting.
-
-Key corrections:
-
-- Use `$...$` for inline equations.
-- Use `$$...$$` for display equations.
-- Replace malformed `[\ ... \]` delimiters with proper GitHub Markdown math blocks.
-- Correct subscripts, Greek letters, units, and mathematical operators.
-- Preserve the original technical content, tables, numbering, and structure.
-
-Writing
-
 Yes. The stationary-node power budget and 12–24-month battery-autonomy justification are explicit parts of the professor's feedback.
 
 I recommend adding a dedicated subsection within XII.7 — SSP Perimeter Node Hardware, immediately after the low-power operating strategy.
