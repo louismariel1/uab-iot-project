@@ -45,12 +45,8 @@ This is a reference capacity scenario. Actual traffic depends on adaptive Wearab
 
 The separate **300 events/s** target represents an assumed exceptional-event workload. For example, 3,000 events arriving over 10 seconds require an average processing rate of:
 
-$$
-R_{\mathrm{events}}
-=
-\frac{3{,}000}{10}
-=
-300 \ \mathrm{events/s}
+$$ 
+R_{\mathrm{events}} = \frac{3{,}000}{10} =300 \ \mathrm{events/s}
 $$
 
 Both workloads may occur simultaneously. The burst rate and duration require validation against representative deployment scenarios.
