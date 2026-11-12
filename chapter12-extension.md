@@ -53,11 +53,7 @@ where:
 The total daily battery energy is approximated by:
 
 $$
-E_{\mathrm{bat,day}}
-=
-\frac{\sum_i E_i}{\eta}
-+
-V_{\mathrm{bat}} I_q (24)
+E_{\mathrm{bat,day}} = \frac{\sum_i E_i}{\eta} + V_{\mathrm{bat}} I_q (24)
 $$
 
 where $\eta = 0.90$ is the assumed converter efficiency and $I_q = 360$ nA is the regulator quiescent current. The model treats conversion efficiency as constant for preliminary estimation.
